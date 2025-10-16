@@ -1,4 +1,4 @@
-const games = [
+export const games = [
     {
         imagem: './images/games/game-1.png',
         nome: 'Genede Gnoene',
@@ -7,7 +7,7 @@ const games = [
     },
     {
         imagem: './images/games/game-2.png',
-        nome: '86 Lpanx',
+        nome: '86 Lpax',
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 279.00
     },
@@ -43,7 +43,7 @@ const games = [
     },
     {
         imagem: './images/games/game-8.png',
-        nome: 'Rteresti Tires',
+        nome: 'Tres Haven',
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 229.00
     },
