@@ -1,48 +1,48 @@
 export const games = [
     {
-        imagem: './images/games/game-1.png',
+        imagem: "./images/games/game-1.png",
         nome: "Genede Gnoene",
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 249.00
     },
     {
-        imagem: './images/games/game-2.png',
+        imagem: "./images/games/game-2.png",
         nome: "86 Lpax",
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 279.00
     },
     {
-        imagem: './images/games/game-3.png',
+        imagem: "./images/games/game-3.png",
         nome: "Raider Prior",
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 219.00
     },
     {
-        imagem: './images/games/game-4.png',
+        imagem: "./images/games/game-4.png",
         nome: "Guntaiir's",
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 229.00
     },
     {
-        imagem: './images/games/game-5.png',
+        imagem: "./images/games/game-5.png",
         nome: "Beimii",
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 249.00
     },
     {
-        imagem: './images/games/game-6.png',
+        imagem: "./images/games/game-6.png",
         nome: "Figncoleu",
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 249.00
     },
     {
-        imagem: './images/games/game-7.png',
+        imagem: "./images/games/game-7.png",
         nome: "Groes Gortins",
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 219.00
     },
     {
-        imagem: './images/games/game-8.png',
+        imagem: "./images/games/game-8.png",
         nome: "Tres Haven",
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 229.00
