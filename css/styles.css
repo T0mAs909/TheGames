@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6{
     background-color: var(--color-blue-900);
 }
 
-.comprar-titulo, .games-titulo{
+.comprar-titulo, .games-titulo, .videos-titulo{
     font-size: 8vw;
     -webkit-text-stroke: 2px var(--color-blue-300);
     color: transparent;
