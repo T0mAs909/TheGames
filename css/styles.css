@@ -204,6 +204,14 @@ h1, h2, h3, h4, h5, h6{
     color: var(--color-purple-400);
 }
 
+.form-control{
+    box-shadow: none !important;
+}
+
+.form-select{
+    box-shadow: none !important;
+}
+
 @keyframes viewCards{
     from{
         opacity: 0;
